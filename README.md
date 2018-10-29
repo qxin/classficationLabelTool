@@ -1,4 +1,4 @@
-# Label_BoundingBox
+# Label_ClassificationLabel
 A tool for labeling image level label.
 
 # Requirement
