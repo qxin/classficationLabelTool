@@ -25,6 +25,6 @@
     
     (eg.  python qxin_class.py -d ~/qxin/xx/images/ -i 350)
 - To create a new label, press 0010 and "return". The first two number "00" means the top level of class, and 10 the second level.
-- "backspace: to re type
+- `backspace`: to re type
 - "left" or "right" to browser.
 - label files are stored in "image_dirs" with suffix ".txt"
