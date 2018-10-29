@@ -1,7 +1,7 @@
 # Label_ClassificationLabel
 - A tool for labeling image level label.
 
-- To simplify the labeling process, e.g. 1000 labels, we can organise the lebel into two level
+- To simplify the labeling process, e.g. 1000 labels, we can organise the lebeles into two leveles
 - for example:
 
     animal_cat
@@ -24,7 +24,7 @@
     > python qxin_class.py -d image_dirs -i startIndex
     
     (eg.  python qxin_class.py -d ~/qxin/xx/images/ -i 350)
-- To create a new label, press 0010 and "return". The first two number "00" means the top level of class, and 10 the second level.
+- To create a new label, press 0010 and `return`. The first two number "00" means the top level of class, and 10 the second level.
 - `backspace`: to re type
-- "left" or "right" to browser.
-- label files are stored in "image_dirs" with suffix ".txt"
+- `left` or `right` to browser.
+- Label files are stored in "image_dirs" with suffix ".txt"
